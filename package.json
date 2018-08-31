@@ -1,0 +1,19 @@
+{
+  "name": "encoder",
+  "version": "1.0.0",
+  "description": "Yeah-Nah binary encoding application.",
+  "main": "encoder.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Cahil Foley",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-latest": "^6.16.0",
+    "purifycss": "^1.1.9",
+    "webpack": "^1.14.0"
+  }
+}
